@@ -1,0 +1,39 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.udacity.project4.app-mergeDebugResources-66:/values-v26/values-v26.xml",
+            "map": [
+                {
+                    "source": "/Users/matheusmaignardi/.gradle/caches/transforms-3/b4bd3d4e4c3a8b3fba670d8dbb31177b/transformed/appcompat-1.6.1/res/values-v26/values-v26.xml",
+                    "from": {
+                        "startLines": "2,3,4,8,12,16",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,130,217,381,557,796",
+                        "endLines": "2,3,7,11,15,16",
+                        "endColumns": "74,86,12,12,12,92",
+                        "endOffsets": "125,212,376,552,791,884"
+                    }
+                },
+                {
+                    "source": "/Users/matheusmaignardi/.gradle/caches/transforms-3/aefd4713bd1af425d6e465743ecb0c91/transformed/jetified-firebase-ui-auth-8.0.2/res/values-v26/values-v26.xml",
+                    "from": {
+                        "startLines": "2,6,10,14",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,253,438,631",
+                        "endLines": "5,9,13,17",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "248,433,626,806"
+                    },
+                    "to": {
+                        "startLines": "17,21,25,29",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "889,1087,1272,1465",
+                        "endLines": "20,24,28,32",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "1082,1267,1460,1640"
+                    }
+                }
+            ]
+        }
+    ]
+}

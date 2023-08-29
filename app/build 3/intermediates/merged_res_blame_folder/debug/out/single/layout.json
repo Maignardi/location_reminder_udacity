@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "com.udacity.project4.app-mergeDebugResources-67:/layout/activity_login.xml",
+        "source": "com.udacity.project4.app-main-70:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.udacity.project4.app-mergeDebugResources-67:/layout/activity_reminder_description.xml",
+        "source": "com.udacity.project4.app-main-70:/layout/activity_reminder_description.xml"
+    },
+    {
+        "merged": "com.udacity.project4.app-mergeDebugResources-67:/layout/fragment_save_reminder.xml",
+        "source": "com.udacity.project4.app-main-70:/layout/fragment_save_reminder.xml"
+    },
+    {
+        "merged": "com.udacity.project4.app-mergeDebugResources-67:/layout/it_reminder.xml",
+        "source": "com.udacity.project4.app-main-70:/layout/it_reminder.xml"
+    },
+    {
+        "merged": "com.udacity.project4.app-mergeDebugResources-67:/layout/fragment_reminders.xml",
+        "source": "com.udacity.project4.app-main-70:/layout/fragment_reminders.xml"
+    },
+    {
+        "merged": "com.udacity.project4.app-mergeDebugResources-67:/layout/fragment_select_location.xml",
+        "source": "com.udacity.project4.app-main-70:/layout/fragment_select_location.xml"
+    },
+    {
+        "merged": "com.udacity.project4.app-mergeDebugResources-67:/layout/activity_register.xml",
+        "source": "com.udacity.project4.app-main-70:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.udacity.project4.app-mergeDebugResources-67:/layout/activity_reminders.xml",
+        "source": "com.udacity.project4.app-main-70:/layout/activity_reminders.xml"
+    },
+    {
+        "merged": "com.udacity.project4.app-mergeDebugResources-67:/layout/activity_authentication.xml",
+        "source": "com.udacity.project4.app-main-70:/layout/activity_authentication.xml"
+    }
+]
